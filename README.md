@@ -1,7 +1,7 @@
 My name is Amin Safiari
 ===============================
 
-Back-end Developer
+Junior Back-end Developer
 -----------------------------
 
 *   🤝  I'm open to collaborating on interesting projects as a web developer
